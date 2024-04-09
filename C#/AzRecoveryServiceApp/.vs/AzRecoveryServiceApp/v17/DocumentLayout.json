@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|c:\\users\\angel\\source\\repos\\azrecoveryserviceapp\\azrecoveryserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|solutionrelative:azrecoveryserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|c:\\users\\angel\\source\\repos\\azrecoveryserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|c:\\users\\angel\\source\\repos\\azrecoveryserviceapp\\services\\backupmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|solutionrelative:services\\backupmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|c:\\users\\angel\\source\\repos\\azrecoveryserviceapp\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|c:\\users\\angel\\source\\repos\\azrecoveryserviceapp\\models\\azureconfigmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|solutionrelative:models\\azureconfigmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|c:\\users\\angel\\source\\repos\\azrecoveryserviceapp\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|solutionrelative:services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|c:\\users\\angel\\source\\repos\\azrecoveryserviceapp\\services\\resourcemanagementservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|solutionrelative:services\\resourcemanagementservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|c:\\users\\angel\\source\\repos\\azrecoveryserviceapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ED551CE-44F8-4B37-878F-8018B307A4A0}|AzRecoveryServiceApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\Services\\LoggingService.cs",
+              "RelativeDocumentMoniker": "Services\\LoggingService.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\Services\\LoggingService.cs",
+              "RelativeToolTip": "Services\\LoggingService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:01:42.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AzureConfigModel.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\Models\\AzureConfigModel.cs",
+              "RelativeDocumentMoniker": "Models\\AzureConfigModel.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\Models\\AzureConfigModel.cs",
+              "RelativeToolTip": "Models\\AzureConfigModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:16:30.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackupManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\Services\\BackupManagementService.cs",
+              "RelativeDocumentMoniker": "Services\\BackupManagementService.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\Services\\BackupManagementService.cs",
+              "RelativeToolTip": "Services\\BackupManagementService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:15:55.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResourceManagementService.cs.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\Services\\ResourceManagementService.cs.cs",
+              "RelativeDocumentMoniker": "Services\\ResourceManagementService.cs.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\Services\\ResourceManagementService.cs.cs",
+              "RelativeToolTip": "Services\\ResourceManagementService.cs.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:15:38.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\App.cs",
+              "RelativeDocumentMoniker": "App.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\App.cs",
+              "RelativeToolTip": "App.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:53:00.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:03:28.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AzRecoveryServiceApp",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\AzRecoveryServiceApp.csproj",
+              "RelativeDocumentMoniker": "AzRecoveryServiceApp.csproj",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\AzRecoveryServiceApp.csproj",
+              "RelativeToolTip": "AzRecoveryServiceApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T07:17:42.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\AzRecoveryServiceApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T07:20:26.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

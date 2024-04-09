@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzRecoveryServiceApp", "AzRecoveryServiceApp.csproj", "{7ED551CE-44F8-4B37-878F-8018B307A4A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ED551CE-44F8-4B37-878F-8018B307A4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED551CE-44F8-4B37-878F-8018B307A4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED551CE-44F8-4B37-878F-8018B307A4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED551CE-44F8-4B37-878F-8018B307A4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {966DCB28-A133-46FC-858B-8DFCFF561149}
+	EndGlobalSection
+EndGlobal
